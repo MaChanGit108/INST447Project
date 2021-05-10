@@ -1,4 +1,4 @@
-# INST447Project
+# INST447 Project
 
-# What are the factors of anime and how do they contribute to the rating score of that anime?
+### What are the factors of anime and how do they contribute to the rating score of that anime?
 
